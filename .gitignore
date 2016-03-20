@@ -2,6 +2,11 @@
 # data
 *.wav
 
+# Mac
+.DS_Store
+
+# Vim
+*.swp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
